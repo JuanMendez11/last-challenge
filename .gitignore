@@ -4,6 +4,7 @@ __pycache__/
 
 # Entornos virtuales
 .venv
+.env
 
 # Base de datos vectorial
 database/db_recetas_argentinas/
