@@ -1,1 +1,9 @@
+# Archivos de Python generados
+__pycache__/
+*.py
+
+# Entornos virtuales
 .venv
+
+# Base de datos vectorial
+database/db_recetas_argentinas/
