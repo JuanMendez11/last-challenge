@@ -6,3 +6,5 @@ langchain_core
 langchain_huggingface
 langchain_chroma
 sentence-transformers
+langchain_text_splitters
+fastapi[standard]
