@@ -1,1 +1,5 @@
 pandas
+ipykernel
+fsspec
+huggingface_hub
+langchain_core
